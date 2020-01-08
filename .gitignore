@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# default
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+__pycache__
+*.pyc
+.python-version
+
+
+# trained models
+checkpoints/CUB-200-2010/
+checkpoints/ImageNet/
+
+
+# main...
+debug.py
