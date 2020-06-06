@@ -1,5 +1,7 @@
 # Attention Editor
-maintainer: [Tsubasa Hirakawa](https://thirakawa.github.io)
+
+Author: Masahiro Mitsuhara
+Maintainer: [Tsubasa Hirakawa](https://thirakawa.github.io)
 
 
 ## 動作環境
@@ -15,8 +17,9 @@ Anaconda (3-5.3.1) を用いてPython環境を構築しています．
 ## 使用方法
 
 ### CUB-200-2010 datasetのダウンロード
-CUB-200-2010 datasetを下記のwebページからダウンロードします．
+CUB-200-2010 datasetを下記のwebページからダウンロードし，保存します．
 [CBU-200-2010 dataset](http://www.vision.caltech.edu/visipedia/CUB-200.html)
+
 
 ### 学習済みモデルのダウンロード
 学習済みモデルを下記のURLからダウンロードします．
