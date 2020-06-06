@@ -1,6 +1,7 @@
 # Attention Editor
 
 Author: Masahiro Mitsuhara
+
 Maintainer: [Tsubasa Hirakawa](https://thirakawa.github.io)
 
 
