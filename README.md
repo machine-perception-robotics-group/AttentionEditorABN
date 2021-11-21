@@ -32,9 +32,6 @@ CUB-200-2010 datasetを下記のwebページからダウンロードし，保存
 ### configファイルの編集
 ./atteditor/config.py内のパスを各自の環境に合わせて書き換えます．
 ```python
-# 本プロジェクトのディレクトリまでのパス
-PROJECT_ROOT = "/path/to/AttentionEditorABN"
-
 # データセット（画像）を保存しているディレクトリまでのパス
 IMAGE_DIR = "/path/to/CUB-200-2010_dataset"
 

@@ -13,6 +13,8 @@ __pycache__
 checkpoints/CUB-200-2010/
 checkpoints/ImageNet/
 
+# dataset (images)
+images/
 
 # main...
 debug.py
