@@ -24,9 +24,9 @@ CUB-200-2010 datasetを下記のwebページからダウンロードし，保存
 
 ### 学習済みモデルのダウンロード
 学習済みモデルを下記のURLからダウンロードします．
-* [ResNet18](https://drive.google.com/open?id=1SGlBahck_F8CkBmfxkCCjBjA_2UT_t1v)
-* [ResNet34](https://drive.google.com/open?id=1u0HI9FXjoO_WH4JLQvqE_ZEvp_0WD-PH)
-* [ResNet50](https://drive.google.com/open?id=15it2_wGo41FRFlrTMJR66Ve42P1lJNDr)
+* [ResNet18](https://drive.google.com/file/d/1J9ZZFq-bBIL-zKjzwnLnaIaTGCYILie2)
+* [ResNet34](https://drive.google.com/file/d/1mxzxQNAz5TuNOTsZvKej9WKQsbba7vXc)
+* [ResNet50](https://drive.google.com/file/d/16BDInSJv2MlLTNu8tG0NcMnvYBMtXOqP)
 
 
 ### configファイルの編集
